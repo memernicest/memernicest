@@ -1,3 +1,4 @@
+<p align="center"><img src="./assets/gifff.gif"></p>
 
 <h3 align="center">Security Engineer II - Pentester at <a href="https://www.securityinnovation.com/">Security Innovation</h3>
   
